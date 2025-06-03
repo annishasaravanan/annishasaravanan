@@ -48,9 +48,10 @@
 
 ### 🖼️ Featured Image
 
-<p align="right">
-  <img src="./377680e1-f521-4749-909e-3b5647f794e3.png" alt="Featured Work" width="300"/>
-</p>
+<div align="right" style="position: relative; width: 300px;">
+  <img src="./377680e1-f521-4749-909e-3b5647f794e3.png" alt="Featured Work" width="300" style="border-radius: 10px;" />
+  <img src="./c99b305d-befc-4fae-9d88-70180a467df7.png" alt="GIF" width="100" style="position: absolute; bottom: 0; right: 0; border-radius: 10px;" />
+</div>
 
 ---
 
