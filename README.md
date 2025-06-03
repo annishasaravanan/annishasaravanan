@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="right">
-  <img src="https://ishazaka.com/static/media/coding.9febc1a0763cd5fd242b.gif" alt="GIF" width="400" height="500" style="margin-top: -50px;"/>
+  <img src="https://ishazaka.com/static/media/coding.9febc1a0763cd5fd242b.gif" alt="GIF" width="200" height="300" style="margin-top: -50px;"/>
 </p>
 ---
 
