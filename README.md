@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="right">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-girl-gif-2332171326726785246&psig=AOvVaw1-sqCPI85rWeF88sqElp_N&ust=1749019075923000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjhsvjR1I0DFQAAAAAdAAAAABAf" alt="GIF" width="400" height="500" style="margin-top: -50px;"/>
+  <img src="https://ishazaka.com/static/media/coding.9febc1a0763cd5fd242b.gif" alt="GIF" width="400" height="500" style="margin-top: -50px;"/>
 </p>
 ---
 
