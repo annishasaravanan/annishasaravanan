@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Annisha Saravanan</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
+<p align="right">
+  <img src="https://raw.githubusercontent.com/AnnishaSaravanan/AnnishaSaravanan/main/4fa9b98f-5a60-4065-a3c9-7bc90fd7713d.png" alt="GIF" width="200"/>
+</p>
+
 ---
 
 🌱 I’m currently learning:
@@ -22,7 +26,6 @@
 ---
 
 ### 🛠️ Tech Stack:
-
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -38,7 +41,6 @@
 ---
 
 ### 📊 GitHub Stats:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnnishaSaravanan&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnishaSaravanan&layout=compact&theme=radical" alt="Top Languages" />
@@ -46,15 +48,5 @@
 
 ---
 
-### 🖼️ Featured Image
-
-<div align="right" style="position: relative; width: 300px;">
-  <img src="./377680e1-f521-4749-909e-3b5647f794e3.png" alt="Featured Work" width="300" style="border-radius: 10px;" />
-  <img src="./c99b305d-befc-4fae-9d88-70180a467df7.png" alt="GIF" width="100" style="position: absolute; bottom: 0; right: 0; border-radius: 10px;" />
-</div>
-
----
-
 ### 🔥 Fun Fact:
-
 I believe in **learning by building** — every line of code is a step closer to mastery! 🚀
