@@ -1,6 +1,7 @@
 <!-- Top-right image -->
 <p align="right">
-  <img src="/mnt/data/a831a8a1-c423-46b2-b968-74be0ab065d0.png" alt="Developer GIF" width="120" height="120" />
+  <img src="![image](https://github.com/user-attachments/assets/15347df9-3931-4da7-9cc8-de9ecd93f6d4)
+" alt="Developer GIF" width="120" height="120" />
 </p>
 
 <h1 align="center">Hi 👋, I'm annishasaravanan</h1> 
