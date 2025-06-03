@@ -2,9 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/AnnishaSaravanan/AnnishaSaravanan/main/4fa9b98f-5a60-4065-a3c9-7bc90fd7713d.png" alt="GIF" width="200"/>
+  <img src="https://raw.githubusercontent.com/AnnishaSaravanan/AnnishaSaravanan/main/4fa9b98f-5a60-4065-a3c9-7bc90fd7713d.png" alt="GIF" width="300" height="300" style="margin-top: -50px;"/>
 </p>
-
 ---
 
 🌱 I’m currently learning:
