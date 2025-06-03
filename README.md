@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Annisha Saravanan</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="300" src="![image](https://github.com/user-attachments/assets/1a5241e5-4032-42dc-a626-d7ac05ed9f7b)
-">
+<p align="center">
+  <img src="https://www.tenor.com/view/coding-girl-gif-2332171326726785246" alt="Coding Girl GIF" width="300"/>
+</p>
 
 ---
 
@@ -49,12 +50,10 @@
 
 ---
 
-### 🖼️ Featured Projects & Images (Optional)
-
-You can include screenshots of projects or repositories here. Example:
+### 🖼️ Featured Image
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Project+Screenshot" alt="Project Screenshot" />
+  <img src="./f2f0f691-47d7-4505-ae3e-a5076fbee759.png" alt="Featured Work" width="400"/>
 </p>
 
 ---
@@ -62,4 +61,3 @@ You can include screenshots of projects or repositories here. Example:
 ### 🔥 Fun Fact:
 
 I believe in **learning by building** — every line of code is a step closer to mastery! 🚀
-
