@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Annisha Saravanan</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a1f7d78c5d2eb4c1f256180a7a.gif">
+<img align="right" alt="Coding" width="300" src="![image](https://github.com/user-attachments/assets/1a5241e5-4032-42dc-a626-d7ac05ed9f7b)
+">
 
 ---
 
