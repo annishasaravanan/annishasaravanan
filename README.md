@@ -1,6 +1,6 @@
 <!-- Top-right image -->
 <p align="right">
-  <img src="/mnt/data/109fd7d6-df80-41dc-bf00-72d552fffd59.png" alt="Developer Girl" width="150" height="150"/>
+  <img src="/mnt/data/a831a8a1-c423-46b2-b968-74be0ab065d0.png" alt="Developer GIF" width="120" height="120" />
 </p>
 
 <h1 align="center">Hi 👋, I'm annishasaravanan</h1> 
