@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Annisha Saravanan</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<!-- Large GIF aligned to the left-center -->
-<div style="display: flex; align-items: center; justify-content: flex-start; margin-top: 40px;">
-  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAe/coding-girl.png" alt="Coding Girl GIF" width="400" height="400" style="margin-right: 20px;" />
-</div>
-
 ---
 
 🌱 I’m currently learning:
@@ -53,8 +48,8 @@
 
 ### 🖼️ Featured Image
 
-<p align="center">
-  <img src="./f2f0f691-47d7-4505-ae3e-a5076fbee759.png" alt="Featured Work" width="400"/>
+<p align="right">
+  <img src="./377680e1-f521-4749-909e-3b5647f794e3.png" alt="Featured Work" width="300"/>
 </p>
 
 ---
