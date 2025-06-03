@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Annisha Saravanan</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<p align="center">
-  <img src="https://www.tenor.com/view/coding-girl-gif-2332171326726785246" alt="Coding Girl GIF" width="300"/>
-</p>
+<!-- Large GIF aligned to the left-center -->
+<div style="display: flex; align-items: center; justify-content: flex-start; margin-top: 40px;">
+  <img src="https://media.tenor.com/IF2JdxzmyN4AAAAe/coding-girl.png" alt="Coding Girl GIF" width="400" height="400" style="margin-right: 20px;" />
+</div>
 
 ---
 
