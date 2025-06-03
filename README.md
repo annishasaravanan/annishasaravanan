@@ -1,6 +1,6 @@
 <!-- Top-right image -->
 <p align="right">
-  <img src="https://your-image-url.com/1459fd96-3d65-4336-bd36-b80836331734.png" alt="Developer Girl" width="150"/>
+  <img src="https://raw.githubusercontent.com/annishasaravanan/assets/main/1459fd96-3d65-4336-bd36-b80836331734.png" alt="Developer Girl" width="150" height="150"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm annishasaravanan</h1> 
