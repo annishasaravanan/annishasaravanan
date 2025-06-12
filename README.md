@@ -17,7 +17,7 @@
 📧 [annishasaravanan83@gmail.com](mailto:annishasaravanan83@gmail.com)
 
 📄 Know more about my experiences:  
-📃 [My Resume](https://drive.google.com/file/d/1WLDy8Yl_YO0AWAtEELj0tLH_i1c6RdTq/view?usp=sharing)
+📃 [My Resume](https://drive.google.com/drive/folders/1D960KLecLfsN71WiYChP8jasV6J2QvPJ?usp=sharing)
 
 🔗 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/annisha-saravanan/)
