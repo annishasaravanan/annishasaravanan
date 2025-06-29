@@ -12,6 +12,8 @@
 💬 Ask me about:
 - **JavaScript**
 - **React**
+- **MERN**
+- **JAVA**
 
 📫 How to reach me:  
 📧 [annishasaravanan83@gmail.com](mailto:annishasaravanan83@gmail.com)
